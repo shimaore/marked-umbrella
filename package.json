@@ -1,0 +1,21 @@
+{
+  "name": "marked-umbrella",
+  "version": "1.0.0",
+  "description": "CCNQ4 backend message router between a local Redis pub/sub and remote red-rings nodes using Axon Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/shimaore/marked-umbrella"
+  },
+  "keywords": [
+    "CCNQ4",
+    "redis",
+    "Axon",
+    "red-rings"
+  ],
+  "author": "Stéphane Alnet <stephane@shimaore.net>",
+  "license": "Unlicense"
+}
